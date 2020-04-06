@@ -1,0 +1,58 @@
+{
+  "paragraphs": [
+    {
+      "text": "Notebook to explore the Twitter part of the tutorial here:\nhttps://zeppelin.apache.org/docs/0.5.5-incubating/tutorial/tutorial.html\n\nTo be done after the development account (mardev) is accepted.",
+      "user": "anonymous",
+      "dateUpdated": "2020-03-20 10:14:43.820",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1584699233335_523011707",
+      "id": "20200320-101353_1722165983",
+      "dateCreated": "2020-03-20 10:13:53.335",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1584699262367_665071134",
+      "id": "20200320-101422_460946440",
+      "dateCreated": "2020-03-20 10:14:22.367",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Tweeter data exploration",
+  "id": "2F3GUEQ26",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "md:shared_process": [],
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
